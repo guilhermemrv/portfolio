@@ -2,6 +2,8 @@
 
 Sou apaixonado por aprender novas habilidades, sou bastante multidisciplinar e entusiasta de Metodologias Ágeis. Acredito que a crescente geração de dados pode criar oportunidades para melhorar a qualidade de vida das pessoas.  
 
+Possuo experiência como Gerente de Projetos, meu currículo com mais detalhes está aqui nessa pasta
+
 
 **Habilidades desenvolvidas no arquivo:**
 
