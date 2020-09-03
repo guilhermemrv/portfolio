@@ -7,7 +7,7 @@ Possuo experiência como Gerente de Projetos, meu currículo com mais detalhes e
 
 **Habilidades desenvolvidas no arquivo:**
 
-01 - Processo Seletivo:
+01 - Processo Seletivo (Python):
 
 - Criação de métodos iterando uma lista de objetos 
 - Criação de funções com iterações
