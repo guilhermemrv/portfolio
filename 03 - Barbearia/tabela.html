@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Tabela de Horarios - Barbearia Viana!</title>
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/tabela.css">
+	</head>
+	<body>
+
+		<header>
+			<div class = "caixa">
+				<h1><img class= "logo" src="html/logo.png" alt="Logo da Barbearia Alura"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html	">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+						<li><a href="tabela.html">Tabela de Horários</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<section>
+				<form id="form-adiciona">
+					<div class="grupo">
+						<label for="nomeCliente">Qual seu nome?</label>
+						<input type="text" id="nomeCliente" name="nomeCliente" required placeholder="Preencha seu nome, por favor..." class= "input-padrao">
+					</div>
+				</form>
+					
+				<fieldset>
+				
+					<legend>Qual dia prefere ser atendido?</legend>
+					<select id="diaSemana">
+						<option value="seg">Segunda</option>
+						<option value="ter">Terça</option>
+						<option value="qua">Quarta</option>
+						<option value="qui">Quinta</option>
+						<option value="sex">Sexta</option>
+					</select>
+					<select id="turnoDia">
+						<option value="man">Manhã</option>
+						<option value="tar">Tarde</option>
+						<option value="noi">Noite</option>
+					</select>
+				</fieldset>
+					<input type="button" id="adiciona-horario" value="Adicionar horário!" class="enviar">
+			</section>
+			<section>
+				<table>
+					<thead>
+						<tr>
+							<th>Turno</th>
+							<th>Segunda</th>
+							<th>Terça</th>
+							<th>Quarta</th>
+							<th>Quinta</th>
+							<th>Sexta</th>
+						</tr>
+					</thead>
+					<tbody id="tabela-horario">
+							<tr class="item-horario">
+								<td class="man">Manhã</td>
+								<td class="seg" id="manseg"></td>
+								<td class="ter" id="manter"></td>
+								<td class="qua" id="manqua"></td>
+								<td class="qui" id="manqui"></td>
+								<td class="sex" id="mansex"></td>
+							</tr>
+
+							<tr class="item-horario">
+								<td class="tar">Tarde</td>
+								<td class="seg" id="tarseg"></td>
+								<td class="ter" id="tarter"></td>
+								<td class="qua" id="tarqua"></td>
+								<td class="qui" id="tarqui"></td>
+								<td class="sex" id="tarsex"></td>
+							</tr>
+
+							<tr class="item-horario">
+								<td class="noi">Noite</td>
+								<td class="seg" id="noiseg"></td>
+								<td class="ter" id="noiter"></td>
+								<td class="qua" id="noiqua"></td>
+								<td class="qui" id="noiqui"></td>
+								<td class="sex" id="noisex"></td>
+							</tr>
+
+						
+					</tbody>
+				</table>
+			</section>
+		</main>
+	
+
+		<footer>
+			<img class= "logo" src="html/logo-branco.png">
+			<p class="copyright">&copy; Copyright Barberaria Viana! - 2020</p>
+		</footer>
+		<script src="js/tabela.js"></script>
+	</body>
+</html>
