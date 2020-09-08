@@ -5,7 +5,7 @@ Sou apaixonado por aprender novas habilidades, sou bastante multidisciplinar e e
 Possuo experiência como Gerente de Projetos, meu currículo com mais detalhes está aqui nessa pasta
 
 
-**Habilidades desenvolvidas no arquivo:**
+**Habilidades desenvolvidas em cada projeto:**
 
 01 - Processo Seletivo (Python):
 
