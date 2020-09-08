@@ -13,7 +13,7 @@ Possuo experiência como Gerente de Projetos, meu currículo com mais detalhes e
 - Criação de funções com iterações
 - Prevenir que o usuário insira um valor errado
 
-02 - Calcula IMC (Javascript)
+02 - Calcular IMC (Javascript)
 
 - Incorporar escutadores de eventos 
   * Remover item da tabela com duplo clique
