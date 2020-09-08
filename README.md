@@ -24,5 +24,13 @@ Possuo experiência como Gerente de Projetos, meu currículo com mais detalhes e
   * Limitando quantidade de valores após a virgula
 - Adicionando novos itens na tabela
   * Identificando quando inserido valores vazios
+  
+03 - Barbearia (HTML+CSS, Javascript)
+
+- Criação de tabela
+- Inserir nome do cliente na tabela (agenda de horários)
+- Utilização de hovers no CSS
+- Criação de formulário
+
 
 
