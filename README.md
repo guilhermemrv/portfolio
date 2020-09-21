@@ -32,5 +32,12 @@ Possuo experiência como Gerente de Projetos, meu currículo com mais detalhes e
 - Utilização de hovers no CSS
 - Criação de formulário
 
+04 - Web Scraping (Python - BeautifulSoup)
+
+- Realização de Scraping usando o BeautifulSoup
+  * Utilizando as tags e classes HTML para identificação das informações desejadas
+- Criação de loop para extrair informações de uma sequência de websites
+- Criação de um DataFrame com as informações obtidas
+
 
 
